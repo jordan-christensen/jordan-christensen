@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Welcome&animation=fadeIn?type=slice)
 
 # A long time ago in a galaxy far, far away...
 
