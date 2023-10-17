@@ -76,6 +76,7 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
   </summary>
+</details>
 
   #### The following things have currently been striking my fancy
   
