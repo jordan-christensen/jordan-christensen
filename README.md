@@ -2,7 +2,7 @@
 
 I'm a software engineer from Washington, USA.
 
-I am focused on Frontend web development, but I also build full-stack applications and have dabbled in other technologies from **Swift** and **Java** to **Rust** and **C++**.
+My focus is frontend web development and I spend most of my time in **Javascript** and **React**, but I also build full-stack applications and have dabbled in other technologies from **Swift** and **Java** to **Rust** and **C++**.
 
 To me, software engineering is a journey of learning, discovery, and progression.
 
