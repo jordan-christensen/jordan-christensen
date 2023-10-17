@@ -6,7 +6,8 @@ I am focused on Frontend web development (React is my jam), but have built full-
 
 To me, the software engineering is a journey of learning, discovery, and progression.
 
-Ultimately, I aim to make challenging things easier, time-consuming things more efficient, and previous impossible things *possible*.
+Ultimately, I aim to make challenging things **easier**, time-consuming things **more efficient**, and previously impossible things **possible**.
+
 ## Q&A 🙋
 
 <details>
