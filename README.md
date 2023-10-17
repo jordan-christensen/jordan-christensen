@@ -16,14 +16,14 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
     <strong>"So, What Are You Excited About Right Now?"</strong>
   </summary>
 
-  #### The following things have currently been striking my fancy
+  #### The following things have currently been striking my fancy:
   
   <ul>
     <li>
       CSS. Always.
     </li>
     <li>
-      Bun 🥟
+      Bun
     </li>
     <li>
       Swift
@@ -41,6 +41,13 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
       Xcode
     </li>
   </ul>
+</details>
+
+<details>
+  <summary>
+    <strong>"What Do You Do When You're Not Programming?"</strong>
+  </summary>
+  My favorite thing to do is just spend time with my wife and kids. I also love music (writing it, playing it, dancing to it), delicious food and going on walks in nature.
 </details>
 
 ## Skills 🥋
