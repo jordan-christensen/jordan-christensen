@@ -2,6 +2,8 @@
 
 I'm a software engineer from Washington, United States.
 
+## Q&A 🙋
+
 <details>
   <summary>
     <strong>"So, What Has Been Exciting You Lately?"</strong>
