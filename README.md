@@ -67,18 +67,3 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
     </li>
   </ul>
 </details>
-
-## Some Heading
-
-Some great body text.
-
-## Some more heading
-- Some
-- Really
-- Great
-- Information
-- That
-- Makes
-- You
-- Want
-- More
