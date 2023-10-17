@@ -4,12 +4,6 @@ I'm a software engineer from Washington state, United States.
 
 <details>
   <summary>
-    
-  </summary>
-</details>
-
-<details>
-  <summary>
     "What Has Been Exciting You Lately?"
   </summary>
 
