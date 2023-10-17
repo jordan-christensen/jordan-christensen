@@ -1,6 +1,6 @@
 # Howdy, pard 🏜️
 
-I'm a software engineer from Washington state, United States.
+I'm a software engineer from Washington, United States.
 
 <details>
   <summary>
