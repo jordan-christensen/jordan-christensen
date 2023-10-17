@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&color=0:FFFFFF,100:000080)
+# Howdy 🧅
+
+I'm a software engineer from Washington state, United States.
 
 ## Some Heading
 
