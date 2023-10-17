@@ -7,7 +7,7 @@ I'm a software engineer from Washington, United States.
     <strong>"So, What Has Been Exciting You Lately?"</strong>
   </summary>
 
-  #### The following have currently been striking my fancy 🤔
+  #### The following have currently been striking my fancy
   
   <ul>
     <li>
