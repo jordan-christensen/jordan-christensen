@@ -46,7 +46,7 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
     <strong>"What Do You Do When You're Not Programming?"</strong>
   </summary>
   <br/>
-  My favorite thing to do is to just spend time with my wife and kids. I also love music (writing it, playing it, dancing to it), delicious food and going on walks in nature.
+  My favorite thing to do is to spend time with my wife and kids. I also love writing, playing and listening to music, eating delicious food, and going on walks in nature.
 </details>
 
 ## Skills
