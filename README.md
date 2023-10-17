@@ -8,6 +8,41 @@ To me, the software engineering is a journey of learning, discovery, and progres
 
 Ultimately, I aim to make challenging things **easier**, time-consuming things **more efficient**, and previously impossible things **possible**.
 
+
+## Q&A 🙋
+
+<details>
+  <summary>
+    <strong>"So, What Are You Excited About Right Now?"</strong>
+  </summary>
+
+  #### The following things have currently been striking my fancy
+  
+  <ul>
+    <li>
+      CSS. Always.
+    </li>
+    <li>
+      Bun 🥟
+    </li>
+    <li>
+      Swift
+    </li>
+    <li>
+      Algorithms
+    </li>
+    <li>
+      Typescript
+    </li>
+    <li>
+      React
+    </li>  
+    <li>
+      Xcode
+    </li>
+  </ul>
+</details>
+
 ## Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -69,65 +104,3 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-## Q&A 🙋
-
-<details>
-  <summary>
-    <strong>"So, What Are You Excited About Right Now?"</strong>
-  </summary>
-
-  #### The following things have currently been striking my fancy
-  
-  <ul>
-    <li>
-      CSS. Always.
-    </li>
-    <li>
-      Bun 🥟
-    </li>
-    <li>
-      Swift
-    </li>
-    <li>
-      Algorithms
-    </li>
-    <li>
-      Typescript
-    </li>
-    <li>
-      React
-    </li>  
-    <li>
-      Xcode
-    </li>
-  </ul>
-</details>
-
-<details>
-  <summary>
-    <strong>"So, What Has Been Exciting You Lately?"</strong>
-  </summary>
-
-  #### The following have currently been striking my fancy
-  
-  <ul>
-    <li>
-      CSS. Always.
-    </li>
-    <li>
-      Bun 🥟
-    </li>
-    <li>
-      Swift
-    </li>
-    <li>
-      Data structures and algorithms
-    </li>
-    <li>
-      Typescript
-    </li>
-    <li>
-      Xcode
-    </li>
-  </ul>
-</details>
