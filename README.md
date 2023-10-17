@@ -11,7 +11,7 @@ I'm a software engineer from Washington, United States.
   
   <ul>
     <li>
-      Always on the lookout for new approaches to CSS (still warming to Tailwind, interested in with UI component libraries)
+      CSS. Always.
     </li>
     <li>
       Bun
@@ -20,7 +20,7 @@ I'm a software engineer from Washington, United States.
       Swift
     </li>
     <li>
-      Leveling up Data Structures and Alogrithms
+      Data structures and algorithms
     </li>
     <li>
       Typescript
