@@ -15,9 +15,7 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
   <summary>
     <strong>"So, What Are You Excited About Right Now?"</strong>
   </summary>
-
-  #### The following things have currently been striking my fancy:
-  
+  <br/>
   <ul>
     <li>
       CSS. Always.
