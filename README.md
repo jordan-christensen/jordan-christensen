@@ -1,4 +1,4 @@
-# Howdy, pard 🏜️
+# Howdy, Pilgrim 🏜️
 
 I'm a software engineer from Washington, United States.
 
