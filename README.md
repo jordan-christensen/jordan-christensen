@@ -32,7 +32,7 @@ I'm a software engineer from Washington state, United States.
       Typescript
     </li>
     <li>
-      Getting to know Xcode as an IDE
+      Xcode
     </li>
   </ul>
 </details>
