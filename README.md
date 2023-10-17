@@ -14,7 +14,7 @@ I'm a software engineer from Washington, United States.
       CSS. Always.
     </li>
     <li>
-      Bun
+      Bun 🥟
     </li>
     <li>
       Swift
