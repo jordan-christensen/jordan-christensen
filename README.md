@@ -12,10 +12,10 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 
 <details>
   <summary>
-    <strong>"So, What Has Been Exciting You Lately?"</strong>
+    <strong>"So, What Are You Excited About Right Now?"</strong>
   </summary>
 
-  #### The following have currently been striking my fancy
+  #### The following things are currently striking my fancy
   
   <ul>
     <li>
@@ -28,11 +28,14 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
       Swift
     </li>
     <li>
-      Data structures and algorithms
+      Algorithms
     </li>
     <li>
       Typescript
     </li>
+    <li>
+      React
+    </li>  
     <li>
       Xcode
     </li>
