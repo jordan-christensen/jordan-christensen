@@ -43,7 +43,7 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
   </ul>
 </details>
 
-## Skills
+## Skills 🥋
 
 Some of the languages and technologies I have worked with.
 
@@ -81,7 +81,7 @@ Some of the languages and technologies I have worked with.
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-## Software
+## Software & Tools 🧰
 
 Some of the tools I use in my work.
 
