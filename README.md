@@ -12,6 +12,9 @@ I'm a software engineer from Washington state, United States.
   <summary>
     "What Has Been Exciting You Lately?"
   </summary>
+
+  ## The following have currently been striking my fancy
+  
   <ul>
     <li>
       Always on the lookout for new approaches to CSS (still warming to Tailwind, interested in with UI component libraries)
