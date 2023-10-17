@@ -10,12 +10,13 @@ I'm a software engineer from Washington state, United States.
 
 <details>
   <summary>
-    "So, What Have You Been Learning Lately?"
+    "What Has Been Exciting You Lately?"
   </summary>
-  * I'm almost on the lookout for new approaches to CSS (still warming to Tailwind, fascinated with component libraries)
-  * Data Structures and Algorithms
-  * Typescript
-  * Swift
+  - Always on the lookout for new approaches to CSS (still warming to Tailwind, interested in with UI component libraries)
+  – Bun
+  - Leveling up Data Structures and Alogrithms
+  - Typescript
+  - Swift
 </details>
 
 ## Some Heading
