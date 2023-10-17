@@ -45,7 +45,13 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 
 ## Software
 
-![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+
+
+
+<details>
+  <summary>
+    <strong>Software and Tools I Have Used</strong>
+    ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
@@ -69,6 +75,34 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+  </summary>
+
+  #### The following things have currently been striking my fancy
+  
+  <ul>
+    <li>
+      CSS. Always.
+    </li>
+    <li>
+      Bun 🥟
+    </li>
+    <li>
+      Swift
+    </li>
+    <li>
+      Algorithms
+    </li>
+    <li>
+      Typescript
+    </li>
+    <li>
+      React
+    </li>  
+    <li>
+      Xcode
+    </li>
+  </ul>
+</details>
 
 ## Q&A 🙋
 
