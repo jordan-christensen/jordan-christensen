@@ -4,7 +4,7 @@ I'm a software engineer from Washington, USA.
 
 I am focused on Frontend web development, but have built full-stack applications and dabbled in many other technologies from **Swift** and **Java** to **Rust** and **C++**.
 
-To me, the software engineering is a journey of learning, discovery, and progression.
+To me, software engineering is a journey of learning, discovery, and progression.
 
 Ultimately, I aim to make challenging things **easier**, time-consuming things **more efficient**, and previously impossible things **possible**.
 
