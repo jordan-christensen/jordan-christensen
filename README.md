@@ -12,11 +12,14 @@ I'm a software engineer from Washington state, United States.
   <summary>
     "What Has Been Exciting You Lately?"
   </summary>
+  ## Currently interested in the following
   - Always on the lookout for new approaches to CSS (still warming to Tailwind, interested in with UI component libraries)
   – Bun
+  - Swift
   - Leveling up Data Structures and Alogrithms
   - Typescript
-  - Swift
+  - Xcode as an IDE
+  
 </details>
 
 ## Some Heading
