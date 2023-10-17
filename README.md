@@ -45,7 +45,7 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 
 <details>
   <summary>
-    <strong>"Let's Get Down to the Nitty Gritty: What Do You Do When You're Not Programming?"</strong>
+    <strong>"What Do You Do When You're Not Programming?"</strong>
   </summary>
   <br/>
   My favorite thing to do is to just spend time with my wife and kids. I also love music (writing it, playing it, dancing to it), delicious food and going on walks in nature.
