@@ -4,7 +4,7 @@ I'm a software engineer from Washington, United States.
 
 <details>
   <summary>
-    <strong>❓ "What Has Been Exciting You Lately?"</strong>
+    <strong>"So, What Has Been Exciting You Lately?"</strong>
   </summary>
 
   #### The following have currently been striking my fancy
