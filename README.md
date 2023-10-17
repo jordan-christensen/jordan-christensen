@@ -1,6 +1,6 @@
 # Howdy, Pilgrim 🏜️
 
-I'm a software engineer from Washington, USA.
+I'm a software engineer from Washington, USA. 🌲⛰️🌊
 
 My focus is frontend web development and I spend most of my time in **Javascript** and **React**. I also build full-stack applications and have dabbled in other technologies from **Swift** and **Java** to **Rust** and **C++**.
 
