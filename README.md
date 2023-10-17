@@ -45,7 +45,7 @@ Ultimately, I aim to make challenging things **easier**, time-consuming things *
 
 ## Skills
 
-These are some of the languages and technologies I work with.
+Some of the languages and technologies I work with.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
@@ -83,7 +83,7 @@ These are some of the languages and technologies I work with.
 
 ## Software
 
-These are some of the tools I use in my work.
+Some of the tools I use in my work.
 
  ![Visual Studio Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
