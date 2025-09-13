@@ -10,7 +10,7 @@ With a background in frontend and mobile development, I specialize in building a
 - **Designed for real people with real goals**
 
 ### 🔧 Technical Specialties
-- **Languages:** JavaScript (ES6+), HTML/CSS, Elixir, Swift, Kotlin  
+- **Languages:** JavaScript, HTML/CSS, Elixir, Swift, Kotlin  
 - **Platforms:** Web, iOS, Android  
 - **Focus Areas:** Human-computer interaction, UX/UI design, performance optimization
 
