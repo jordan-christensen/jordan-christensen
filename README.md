@@ -25,4 +25,4 @@ Whether that means improving workflows, amplifying creativity, or reducing frict
 
 ---
 
-> *I believe in engineering that empowers, design that resonates, and tools that serve a purpose.*
+> *I believe in engineering that empowers, design that inspires, and tools enable.*
